@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kzomil</title>
+  <subtitle>Le blog à Émile</subtitle>
+  <link href="http://localhost:8080/feed.xml" rel="self"/>
+  <link href="http://localhost:8080"/>
+  <updated></updated>
+  <id>http://localhost:8080</id>
+  <author>
+    <name>Émile Kzomil</name>
+  </author>
+  <entry>
+    <title>Le feu au lac</title>
+    <link href="http://localhost:8080/le-feu-au-lac/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Morts pour la France</title>
+    <link href="http://localhost:8080/morts-pour-la-france/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Discussion sur Dieu et la raison</title>
+    <link href="http://localhost:8080/discussion-sur-dieu/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Discrédit</title>
+    <link href="http://localhost:8080/discredit/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>L&#39;oeil qui voit Dieu</title>
+    <link href="http://localhost:8080/loeil-qui-voit-dieu/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Christchurch</title>
+    <link href="http://localhost:8080/christchurch/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>FREXIT</title>
+    <link href="http://localhost:8080/frexit/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>La Création</title>
+    <link href="http://localhost:8080/la-creation/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Alain Finkielkraut et les gilets jaunes</title>
+    <link href="http://localhost:8080/alain-finkielkraut-et-les-gilets-jaunes/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Le tournant ?</title>
+    <link href="http://localhost:8080/le-tournant/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Mais où est le chat du rabbin ?</title>
+    <link href="http://localhost:8080/mais-ou-est-le-chat-du-rabbin/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Gilets jaunes : pourquoi je les aime toujours</title>
+    <link href="http://localhost:8080/gilets-jaunes-pourquoi-je-les-aime-toujours/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Luc le philosophe</title>
+    <link href="http://localhost:8080/premier-post/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+</feed>

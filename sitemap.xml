@@ -12,12 +12,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/description/</loc>
+    <loc>http://localhost:8080/amis/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/amis/</loc>
+    <loc>http://localhost:8080/description/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -37,22 +37,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/discredit/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/le-feu-au-lac/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/morts-pour-la-france/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/discussion-sur-dieu/</loc>
+    <loc>http://localhost:8080/mais-ou-est-le-chat-du-rabbin/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -62,22 +47,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/loeil-qui-voit-dieu/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/christchurch/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/gilets-jaunes-pourquoi-je-les-aime-toujours/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/la-creation/</loc>
+    <loc>http://localhost:8080/le-tournant/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -87,17 +57,47 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/le-tournant/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/mais-ou-est-le-chat-du-rabbin/</loc>
+    <loc>http://localhost:8080/la-creation/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:8080/frexit/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/christchurch/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/loeil-qui-voit-dieu/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/discredit/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/discussion-sur-dieu/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/morts-pour-la-france/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/le-feu-au-lac/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/gilets-jaunes-pourquoi-je-les-aime-toujours/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -112,72 +112,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/tag/alain-finkielkraut/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/antisemitisme/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/terrorisme/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/attentat/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/aveuglement/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/breve/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/dieu/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/europe/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/foi/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/freres-musulmans/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/frexit/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/gilets-jaunes/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/gouvernement/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/ideologie/</loc>
+    <loc>http://localhost:8080/tag/sottise/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -187,7 +122,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/tag/luc-ferry/</loc>
+    <loc>http://localhost:8080/tag/frexit/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -237,12 +172,77 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/tag/sottise/</loc>
+    <loc>http://localhost:8080/tag/gouvernement/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/terrorisme/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/freres-musulmans/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/foi/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/europe/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/dieu/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/breve/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/aveuglement/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/attentat/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:8080/tag/atheisme/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/antisemitisme/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/alain-finkielkraut/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/gilets-jaunes/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/ideologie/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tag/luc-ferry/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
 </urlset>

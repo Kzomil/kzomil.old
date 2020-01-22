@@ -12,12 +12,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/amis/</loc>
+    <loc>http://localhost:8080/description/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/description/</loc>
+    <loc>http://localhost:8080/amis/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -37,6 +37,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:8080/discredit/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:8080/le-feu-au-lac/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
@@ -52,7 +57,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/discredit/</loc>
+    <loc>http://localhost:8080/premier-post/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -67,7 +72,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/frexit/</loc>
+    <loc>http://localhost:8080/gilets-jaunes-pourquoi-je-les-aime-toujours/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -92,12 +97,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/gilets-jaunes-pourquoi-je-les-aime-toujours/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/premier-post/</loc>
+    <loc>http://localhost:8080/frexit/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -112,12 +112,17 @@
   </url>
   
   <url>
+    <loc>http://localhost:8080/tag/alain-finkielkraut/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:8080/tag/antisemitisme/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/tag/atheisme/</loc>
+    <loc>http://localhost:8080/tag/terrorisme/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -127,7 +132,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/tag/alain-finkielkraut/</loc>
+    <loc>http://localhost:8080/tag/aveuglement/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -237,12 +242,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/tag/terrorisme/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tag/aveuglement/</loc>
+    <loc>http://localhost:8080/tag/atheisme/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
 </urlset>

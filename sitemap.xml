@@ -42,7 +42,27 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/mais-ou-est-le-chat-du-rabbin/</loc>
+    <loc>http://localhost:8080/premier-post/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/le-feu-au-lac/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/morts-pour-la-france/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/discussion-sur-dieu/</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/discredit/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -52,12 +72,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/christchurch/</loc>
+    <loc>http://localhost:8080/gilets-jaunes-pourquoi-je-les-aime-toujours/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/morts-pour-la-france/</loc>
+    <loc>http://localhost:8080/frexit/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
@@ -77,32 +97,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/discredit/</loc>
+    <loc>http://localhost:8080/mais-ou-est-le-chat-du-rabbin/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/gilets-jaunes-pourquoi-je-les-aime-toujours/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/premier-post/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/le-feu-au-lac/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/discussion-sur-dieu/</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/frexit/</loc>
+    <loc>http://localhost:8080/christchurch/</loc>
     <lastmod>2020-01-22</lastmod>
   </url>
   
